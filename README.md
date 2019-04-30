@@ -1,3 +1,21 @@
+create React inside folder:  npx create-react-app .
+or
+npx create-react-app app-name
+
+Add folder to github using:
+$ git remote add origin githublink   ##git@github.com:pavanshettyks/to-do-list.git
+$ git push -u origin master
+
+
+https://www.youtube.com/watch?v=sBws8MSXN7A&t=1028s 57:37
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
