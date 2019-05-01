@@ -6,6 +6,9 @@ Add folder to github using:
 $ git remote add origin githublink   ##git@github.com:pavanshettyks/to-do-list.git
 $ git push -u origin master
 
+run npm i uuid to download uuid
+run npm i react-router-dom to install react rounter
+run npm i axios to download axios
 
 https://www.youtube.com/watch?v=sBws8MSXN7A&t=1028s 57:37
 
