@@ -6,9 +6,6 @@ import AddTodo from './components/AddTodo';
 import About from './components/pages/About';
 import Header from './components/layout/Header';
 import uuid from 'uuid';
-
-
-
 import './App.css';
 
 class App extends Component {
