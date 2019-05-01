@@ -16,17 +16,17 @@ class App extends Component {
     todos: [
       {
         id : uuid.v4(),
-        title: "Boom",
+        title: "Learn ReactJS",
         completed: false
       },
       {
         id : uuid.v4(),
-        title: "Booom Boom",
+        title: "Build Apps",
         completed: false
       },
       {
         id : uuid.v4(),
-        title: "Boom Yes Boom",
+        title: "Deploy it",
         completed: false
       }
     ]
