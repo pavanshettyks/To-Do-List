@@ -1,6 +1,6 @@
 create React inside folder:  npx create-react-app .
 or
-npx create-react-app app-name
+npx create-react-app app-name 
 
 Add folder to github using:
 $ git remote add origin githublink   ##git@github.com:pavanshettyks/to-do-list.git
